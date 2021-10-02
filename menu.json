@@ -1,0 +1,18 @@
+[
+    {
+      "id": 1,
+      "name": " parmigiana di  pollo",
+      "img": "https://italian719.files.wordpress.com/2015/11/parmigiana.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Fettuccine alfredo ",
+      "img":"https://italian719.files.wordpress.com/2015/11/pasta.jpg"
+    },
+    {
+        "id": 3,
+        "name": " Lasagna",
+        "img":"https://italian719.files.wordpress.com/2015/11/lasagna-thumb.jpg"
+    }
+    
+  ]
